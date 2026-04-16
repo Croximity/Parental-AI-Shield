@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "398685095090",
+    "project_id": "base-de-tesis",
+    "storage_bucket": "base-de-tesis.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398685095090:android:f1c6681bd26d9037f935ab",
+        "android_client_info": {
+          "package_name": "com.example.aplicaciondetesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398685095090-0fdk4euhk47m1i286ajfl743psfuqe3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aplicaciondetesis",
+            "certificate_hash": "5436d195c8325f59b51084ac30150827c48568bc"
+          }
+        },
+        {
+          "client_id": "398685095090-1utp0qirtcc3nnuq30ag80e6c2rdhh50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtbJ5j_FBykSk5rP4IemeBax3xbBFauo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398685095090-1utp0qirtcc3nnuq30ag80e6c2rdhh50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
